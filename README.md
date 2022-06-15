@@ -8,6 +8,7 @@ Además, soy Chef Profesional e Instructor en Musculacion y Personal Trainer.
 Poseeo conocimientos de HTML5 | CSS3 | BOOTSTRAP | GIT | GITHUB | SASS |.
 
 EDUCACIÓN Y FORMACION PROFESIONAL
+
   Colegio General Manuel Belgrano
     03/2011 - -11/2017
     Bachiller en Ciencias Naturales
