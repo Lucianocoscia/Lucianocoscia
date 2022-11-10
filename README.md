@@ -3,6 +3,11 @@
 
 Soy Desarrollador Web y futuro Desarrollador Full Stack. En este momento me encuentro cursando la carrera de Desarrollador Full Stack en CoderHouse. Además, soy Chef Profesional e Instructor en Musculacion y Personal Trainer.
 
+### Objetivo: 
+<div>
+    <p> Desempeñarme en un área que me permita desarrollar al máximo mis aptitudes supliendo la falta de experiencia con ánimo de voluntad y progreso</p>
+</div>
+
 ### Poseeo conocimientos en: 
 
 <div>
@@ -21,7 +26,7 @@ Soy Desarrollador Web y futuro Desarrollador Full Stack. En este momento me encu
 ### Me podes contactar por:  
 
 <div>
-  <a href="https://www.linkedin.com/in/cristian-cabrera-304500183/" target="_blank">
+  <a href="https://www.linkedin.com/in/luciano-coscia-desarrolladorfullstack/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
   </a>
 
