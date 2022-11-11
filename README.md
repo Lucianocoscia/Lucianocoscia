@@ -1,7 +1,7 @@
 
 # Hola 👋, Mi nombre es Luciano Coscia
 
-Soy Desarrollador Web y futuro Desarrollador Full Stack. En este momento me encuentro cursando la carrera de Desarrollador Full Stack en CoderHouse. Además, soy Chef Profesional e Instructor en Musculacion y Personal Trainer.
+Soy Desarrollador Web Front-End y futuro Full Stack. En este momento me encuentro cursando la carrera de Desarrollador Full Stack en CoderHouse. Además, soy Chef Profesional e Instructor en Musculacion y Personal Trainer.
 
 ### Objetivo: 
 <div>
